@@ -5,7 +5,7 @@
 <br>
 <br>
 <a href="https://github.com/HealthyPear/test_showyourwork_main/actions/workflows/build.yml">
-<img src="https://github.com/HealthyPear/test_showyourwork_main/actions/workflows/build.yml/badge.svg?branch=main" alt="Article status"/>
+<img src="https://github.com/HealthyPear/test_showyourwork_main/actions/workflows/build.yml/badge.svg" alt="Article status"/>
 </a>
 <a href="https://github.com/HealthyPear/test_showyourwork_main/raw/main-pdf/arxiv.tar.gz">
 <img src="https://img.shields.io/badge/article-tarball-blue.svg?style=flat" alt="Article tarball"/>
@@ -19,3 +19,6 @@
 </p>
 
 An open source scientific article created using the [showyourwork](https://github.com/showyourwork/showyourwork) workflow.
+
+
+
